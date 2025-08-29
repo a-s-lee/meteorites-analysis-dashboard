@@ -1,4 +1,4 @@
-# Meteorite Landings Analysis & Clustering Dashboard  
+# ☄️ Meteorite Landings Analysis & Clustering Dashboard  
 
 This repository contains a full **data pipeline and dashboard project** analyzing NASA’s Meteorite Landings dataset. The workflow includes **SQL-based cleaning**, **Python clustering analysis**, and a **Power BI dashboard** for visualization.  
 
