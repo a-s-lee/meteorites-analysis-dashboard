@@ -30,7 +30,7 @@ This repository contains a full **data pipeline and dashboard project** analyzin
   - Visualized clusters on a world map (longitude vs latitude).
      <img width="640" height="480" alt="Cluster_map" src="https://github.com/user-attachments/assets/09689e7a-e835-4f7a-b4ba-44cdc227ce45" />
 - Libraries used:  
-  - `pandas`, `scikit-learn`, `matplotlib`. :contentReference[oaicite:1]{index=1}
+  - `pandas`, `scikit-learn`, `matplotlib`. 
 
 ### 3. Visualization & Dashboard (Power BI)  
 - Dashboard file: [`Meteorite_Analysis.pbix`](./Meteorite_Analysis.pbix).  
